@@ -13,8 +13,11 @@ Proyek ini adalah submission akhir untuk kelas **Belajar Analisis Data dengan Py
 
 ## ❓ Pertanyaan Bisnis
 Analisis ini dibuat untuk menjawab pertanyaan bisnis berikut:
-1. Bagaimana performa penjualan dan *revenue* perusahaan dalam beberapa bulan terakhir? (Melihat tren waktu).
-2. Bagaimana segmentasi pelanggan kita berdasarkan perilaku transaksi menggunakan analisis RFM (*Recency, Frequency, Monetary*)?
+1. Bagaimana performa penjualan dan revenue perusahaan dalam beberapa bulan terakhir?
+2. Produk apa yang memiliki performa terbaik dan terburuk berdasarkan jumlah penjualan?
+3. Bagaimana distribusi pelanggan berdasarkan wilayah (state)?
+4. Bagaimana segmentasi pelanggan berdasarkan perilaku transaksi menggunakan analisis RFM (Recency, Frequency, Monetary)?
+5. Bagaimana hubungan antara frekuensi transaksi dan total pengeluaran pelanggan?
 
 ## ✨ Teknik Analisis Lanjutan yang Diterapkan
 Untuk mendapatkan *insight* yang lebih dalam dan komprehensif, proyek ini menerapkan beberapa teknik analisis lanjutan (tanpa algoritma *Machine Learning*):
