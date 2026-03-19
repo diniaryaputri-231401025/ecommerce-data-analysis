@@ -6,7 +6,7 @@ import datetime as dt
 from babel.numbers import format_currency
 
 sns.set_theme(style="whitegrid")
-st.set_page_config(page_title="E-Commerce Dashboard",)
+st.set_page_config(page_title="E-Commerce Dashboard")
 
 # --- Helper Functions ---
 def create_daily_orders_df(df):
