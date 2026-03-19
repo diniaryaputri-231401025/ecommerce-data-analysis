@@ -42,23 +42,24 @@ ecommerce-data-analysis/
 └── url.txt                # Tautan menuju dashboard yang telah di-deploy
 
 ## 🚀 Cara Menjalankan Dashboard Secara Lokal
-Clone repository ini ke mesin lokal Anda:
 
-Bash
-git clone [https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git](https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git)
-Masuk ke direktori proyek:
+1. Clone repository ini ke mesin lokal Anda:
+   ```bash
+   git clone [https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git](https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git)
 
-Bash
-cd ecommerce-data-analysis
-Instal library yang dibutuhkan (sangat disarankan menggunakan virtual environment):
+2. Masuk ke direktori proyek:
+   '''  Bash
+   cd ecommerce-data-analysis
 
-Bash
-pip install -r requirements.txt
-Jalankan aplikasi Streamlit:
+3. Instal library yang dibutuhkan (sangat disarankan menggunakan virtual environment):
+   '''Bash
+   pip install -r requirements.txt
 
-Bash
-streamlit run dashboard/dashboard.py
-🌐 Tautan Dashboard
+4. Jalankan aplikasi Streamlit:
+   '''Bash
+   streamlit run dashboard/dashboard.py
+
+## 🌐 Tautan Dashboard
 Dashboard interaktif telah berhasil di-deploy ke Streamlit Community Cloud. Anda dapat mengaksesnya melalui tautan berikut:
 
-👉 Buka E-Commerce Dashboard Disini https://ecommerce-data-analysis-4kzv8bjmvfs7vcxdgqhrzo.streamlit.app/
+👉 Buka E-Commerce Dashboard Disini
