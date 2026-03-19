@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk menganalisis data dari E-Commerce Public Dataset. Ana
 
 2. Jalankan aplikasi streamlit:
      ```bash
-  streamlit run dashboard/dashboard.py
+   streamlit run dashboard/dashboard.py
 
   ### 3. Membuat `requirements.txt`
 Karena kamu menggunakan Windows dan kemungkinan besar bekerja di lingkungan lokal, cara paling aman dan bersih adalah menggunakan **pipreqs** atau menulisnya secara manual agar tidak terlalu banyak library yang tidak perlu ikut terbawa.
