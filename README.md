@@ -41,7 +41,7 @@ ecommerce-data-analysis/
 ├── requirements.txt       # Daftar library Python yang dibutuhkan
 └── url.txt                # Tautan menuju dashboard yang telah di-deploy
 
-# 🚀 Cara Menjalankan Dashboard Secara Lokal
+## 🚀 Cara Menjalankan Dashboard Secara Lokal
 Clone repository ini ke mesin lokal Anda:
 
 Bash
