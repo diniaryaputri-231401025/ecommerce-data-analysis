@@ -40,6 +40,7 @@ ecommerce-data-analysis/
 ├── README.md              # Dokumentasi proyek
 ├── requirements.txt       # Daftar library Python yang dibutuhkan
 └── url.txt                # Tautan menuju dashboard yang telah di-deploy
+```
 
 ### 🚀 Cara Menjalankan Dashboard Secara Lokal
 
@@ -60,6 +61,8 @@ ecommerce-data-analysis/
    streamlit run dashboard/dashboard.py
 
 ## 🌐 Tautan Dashboard
-Dashboard interaktif telah berhasil di-deploy ke Streamlit Community Cloud. Anda dapat mengaksesnya melalui tautan berikut:
 
-👉 Buka E-Commerce Dashboard Disini
+Dashboard interaktif telah berhasil di-deploy ke Streamlit Community Cloud.  
+Silakan akses melalui tautan berikut:
+
+👉 [Buka E-Commerce Dashboard Disini](https://ecommerce-data-analysis-4kzv8bjmvfs7vcxdgqhrzo.streamlit.app/)
