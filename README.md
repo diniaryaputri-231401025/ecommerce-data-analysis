@@ -119,24 +119,28 @@ Dashboard interaktif memiliki fitur:
 - 📍 Distribusi pelanggan (state & map)
 - 🧠 RFM Analysis (scatter plot + segmentation)
 
+---
+
 📥 Download dataset
 ### 🚀 Cara Menjalankan Dashboard Secara Lokal
 
 1. Clone repository ini ke mesin lokal Anda:
    ```bash
-   git clone [https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git](https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git)
+   git clone (https://github.com/diniaryaputri-231401025/ecommerce-data-analysis.git)
 
 2. Masuk ke direktori proyek:
-   '''  Bash
+   '''bash
    cd ecommerce-data-analysis
 
 3. Instal library yang dibutuhkan (sangat disarankan menggunakan virtual environment):
-   '''Bash
+   '''bash
    pip install -r requirements.txt
 
 4. Jalankan aplikasi Streamlit:
-   '''Bash
+   '''bash
    streamlit run dashboard/dashboard.py
+
+---
 
 ## 🌐 Tautan Dashboard
 
@@ -144,6 +148,8 @@ Dashboard interaktif telah berhasil di-deploy ke Streamlit Community Cloud.
 Silakan akses melalui tautan berikut:
 
 👉 [Buka E-Commerce Dashboard Disini](https://ecommerce-data-analysis-4kzv8bjmvfs7vcxdgqhrzo.streamlit.app/)
+
+---
 
 ### 📌 Insight Utama
 - Revenue menunjukkan pola musiman dengan puncak di akhir tahun
