@@ -48,7 +48,13 @@ def create_rfm_df(df):
     return rfm_df
 
 # --- Load Data ---
-all_df = pd.read_csv("dashboard/all_data.csv")
+# Mendapatkan path folder tempat dashboard.py ini berada
+directory = os.path.dirname(__file__)
+path = os.path.join(directory, "all_data.csv")
+
+# Baca file menggunakan path yang sudah digabung
+all_df = pd.read_csv(path)
+
 all_df["order_purchase_timestamp"] = pd.to_datetime(all_df["order_purchase_timestamp"])
 all_df.sort_values("order_purchase_timestamp", inplace=True)
 
