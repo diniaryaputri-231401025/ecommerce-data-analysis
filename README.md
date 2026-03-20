@@ -85,6 +85,7 @@ Analisis distribusi pelanggan berdasarkan lokasi:
 
 ### 5. 🔗 Correlation Analysis
 Menganalisis hubungan antara:
+
 - Frequency vs Monetary
 
 ➡️ Insight:
@@ -109,8 +110,11 @@ ecommerce-data-analysis/
 └── url.txt
 ```
 
+---
+
 ### 🚀 Fitur Dashboard
 Dashboard interaktif memiliki fitur:
+
 - 📅 Filter rentang waktu
 - 🌍 Filter berdasarkan state
 - 📊 KPI (Total Orders, Revenue, Avg Order Value)
@@ -152,6 +156,7 @@ Silakan akses melalui tautan berikut:
 ---
 
 ### 📌 Insight Utama
+
 - Revenue menunjukkan pola musiman dengan puncak di akhir tahun
 - Beberapa kategori produk mendominasi penjualan
 - Pelanggan terkonsentrasi di wilayah tertentu (SP sebagai pusat utama)
